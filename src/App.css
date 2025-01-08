@@ -61,8 +61,14 @@
   font-weight: 400;
 }
 
+.error {
+  color: rgb(255, 175, 175);
+  margin: 10px;
+}
+
 @media only screen and (min-width: 0) and (max-width: 545px) {
   .submit-btn {
     margin-top: 10px;
   }
 }
+
